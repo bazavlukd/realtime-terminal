@@ -7,7 +7,7 @@ Display the progress of a build in realtime.
 - Clone this repository.
 - Copy `.env.example` to `.env` -> `cp .env.example .env`
 - Update `.env` to contain credentials.
-- Run any command on the command line such as `yoursampleprogram | go run main.go`
+- Run any command on the command line such as `ls -la | go run main.go`
 
 ## Built With
 
